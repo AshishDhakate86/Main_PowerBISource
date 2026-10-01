@@ -1,0 +1,10 @@
+relationship 4d5e2a48-da04-4998-b9e1-46c533247c6e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Employee Sample Data 1'.'Hire Date'
+	toColumn: LocalDateTable_845c6a6c-2554-4eb3-be81-3f822e33baad.Date
+
+relationship 5c4d9e9a-ef0d-495f-99ab-2a04387296e0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Employee Sample Data 1'.'Exit Date'
+	toColumn: LocalDateTable_2d626768-7681-4d65-af92-6febe474c381.Date
+
